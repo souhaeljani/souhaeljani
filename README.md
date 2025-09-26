@@ -33,17 +33,10 @@ I’m passionate about **data-driven solutions** and currently exploring **Machi
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
-
----
-
 ## 📫 Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/eljani-souha)  
-[![Email](eljanisouha1@gmail.com
+[Email](eljanisouha1@gmail.com
   
 
 ---
